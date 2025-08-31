@@ -1,6 +1,7 @@
 const App = () => {
 	return (
 		<>
+            <h2>COUCOU</h2>
 		</>
 	);
 };
