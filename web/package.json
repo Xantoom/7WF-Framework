@@ -1,7 +1,8 @@
 {
     "scripts": {
         "dev": "vite dev",
-        "build": "vite build"
+        "build": "vite build",
+        "watch": "vite build --watch"
     },
     "devDependencies": {
         "path": "^0.12.7",

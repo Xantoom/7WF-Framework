@@ -6,11 +6,11 @@ author 'Xantoom'
 description 'A framework for a magic system fan inspired by 7W'
 version '1.0.0'
 
-ui_page 'nui/build/index.html'
+ui_page 'web/build/index.html'
 
 files {
-    'nui/build/index.html',
-    'nui/build/**/*',
+    'web/build/index.html',
+    'web/build/**/*',
 }
 
 shared_scripts {
