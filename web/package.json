@@ -3,8 +3,8 @@
         "dev": "vite dev",
         "build": "vite build",
         "watch": "vite build --watch",
-        "lint": "oxlint 'src/**/*.{ts,tsx}'",
-        "format": "prettier --write 'src/**/*.{ts,tsx,jsson,css,scss,md}'"
+        "lint": "oxlint 'src/**/*.{js,jsx,ts,tsx}'",
+        "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,json,css,scss,md}'"
     },
     "devDependencies": {
         "@prettier/plugin-oxc": "^0.0.4",
